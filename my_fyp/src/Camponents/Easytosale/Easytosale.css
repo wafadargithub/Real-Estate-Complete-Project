@@ -1,0 +1,430 @@
+.heading_para {
+    color: #2c2c2c;
+    text-align: start;
+    font-family: "Inter";
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 3%;
+  }
+  .para_graf {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 2%;
+    padding-right: 4%;
+  }
+  .benfits_working {
+    color: #2c2c2c;
+    text-align: start;
+    font-family: "Inter";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 5%;
+  }
+  .green_index {
+    width: 26px;
+    height: 26px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #343C82;
+    margin-left: 80%;
+  }
+  .sell_as_ward {
+    color: #000;
+    text-align: start;
+    font-family: "Inter";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: normal;
+    margin-left: 0%;
+  }
+  .frant_image {
+    width: 85%;
+    height: 187px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    margin-top: 5%;
+    padding-right: 2%;
+  }
+
+  @media only screen and (max-width: 1400px) {
+    .heading_para {
+      color: #2c2c2c;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 34px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-left: 1%;
+    }
+    .para_graf {
+      color: #2c2c2c;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-left: 1%;
+      padding-right: 5%;
+    }
+    .benfits_working {
+      color: #2c2c2c;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin-left: 2%;
+    }
+    .green_index {
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+      border-radius: 5px;
+      background: #343C82;
+      margin-left: 45%;
+    }
+    .sell_as_ward {
+      color: #000;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 17px;
+      font-style: normal;
+      font-weight: 350;
+      line-height: normal;
+      margin-left: 0%;
+    }
+    .frant_image {
+      width: 85%;
+      height: 180px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      margin-top: 5%;
+    }
+  }
+
+  @media only screen and (max-width: 1200px) {
+    .heading_para {
+      color: #2c2c2c;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 29px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-left: 1%;
+    }
+    .para_graf {
+      color: #2c2c2c;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-left: 1%;
+      padding-right: 3%;
+    }
+    .benfits_working {
+      color: #2c2c2c;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin-left: 2%;
+    }
+    .green_index {
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+      border-radius: 5px;
+      background: #343C82;
+      margin-left: 45%;
+    }
+    .sell_as_ward {
+      color: #000;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 17px;
+      font-style: normal;
+      font-weight: 350;
+      line-height: normal;
+      margin-left: 0%;
+    }
+    .frant_image {
+      width: 90%;
+      height: 180px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      margin-top: 5%;
+    }
+  }
+
+  
+
+
+
+@media only screen and (max-width: 992px) {
+  .heading_para {
+    color: #2c2c2c;
+    text-align: start;
+    font-family: "Inter";
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 2%;
+  }
+  .para_graf {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 1%;
+    padding-right: 4%;
+  }
+  .benfits_working {
+    color: #2c2c2c;
+    text-align: start;
+    font-family: "Inter";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 2%;
+  }
+  .green_index {
+    width: 23px;
+    height: 22px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #343C82;
+    margin-left: 45%;
+  }
+  .sell_as_ward {
+    color: #000;
+    text-align: start;
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: normal;
+    margin-left: 0%;
+  }
+  .frant_image {
+    width: 80%;
+    height: 220px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    margin-top: 4%;
+    padding-left: 17%;
+    margin-bottom: 5%;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+    .heading_para {
+      color: #2c2c2c;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-left: 2%;
+    }
+    .para_graf {
+      color: #2c2c2c;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 11px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-left: 1%;
+      padding-right: 0%;
+    }
+    .benfits_working {
+      color: #2c2c2c;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-left: 2%;
+    }
+    .green_index {
+      width: 23px;
+      height: 22px;
+      flex-shrink: 0;
+      border-radius: 5px;
+      background: #343C82;
+      margin-left: 45%;
+    }
+    .sell_as_ward {
+      color: #000;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 13px;
+      font-style: normal;
+      font-weight: 350;
+      line-height: normal;
+      margin-left: 0%;
+    }
+    .frant_image {
+      width: 90%;
+      height: 200px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      margin-top: 4%;
+      padding-left: 17%;
+      margin-bottom: 5%;
+    }
+  }
+
+  @media only screen and (max-width: 580px) {
+    .heading_para {
+      color: #2c2c2c;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-left: 2%;
+    }
+    .para_graf {
+      color: #2c2c2c;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 10px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-left: 2%;
+      padding-right: 2%;
+    }
+    .benfits_working {
+      color: #2c2c2c;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 14px !important;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-left: 2%;
+    }
+    .green_index {
+      width: 20px;
+      height: 20px;
+      flex-shrink: 0;
+      border-radius: 5px;
+      background: #343C82;
+      margin-left: 46%;
+    }
+    .sell_as_ward {
+      color: #000;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 11px;
+      font-style: normal;
+      font-weight: 350;
+      line-height: normal;
+      margin-left: 0%;
+    }
+    .frant_image {
+      width: 90%;
+      height: 180px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      margin-top: 4%;
+      padding-left: 17%;
+      margin-bottom: 5%;
+    }
+  }
+
+  @media only screen and (max-width: 420px) {
+    .heading_para {
+      color: #2c2c2c;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-left: 2%;
+    }
+    .para_graf {
+      color: #2c2c2c;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 10px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-left: 2%;
+      padding-right: 2%;
+    }
+    .benfits_working {
+      color: #2c2c2c;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-left: 2%;
+    }
+    .green_index {
+      width: 20px;
+      height: 20px;
+      flex-shrink: 0;
+      border-radius: 5px;
+      background: #343C82;
+      margin-left: 46%;
+    }
+    .sell_as_ward {
+      color: #000;
+      text-align: start;
+      font-family: "Inter";
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 350;
+      line-height: normal;
+      margin-left: 0%;
+    }
+    .frant_image {
+      width: 90%;
+      height: 150px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      margin-top: 4%;
+      padding-left: 17%;
+      margin-bottom: 5%;
+    }
+  }
+
+
+
+
+
+
+

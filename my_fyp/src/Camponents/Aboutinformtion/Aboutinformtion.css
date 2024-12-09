@@ -1,0 +1,832 @@
+.logo_stebal{
+    width: 70%;
+height: 190px;
+flex-shrink: 0;
+
+}
+
+.paragraf_logo{
+    color: #606060;
+font-family: "Akshar";
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.quick_links{
+    color:  #343C82;
+text-align: start;
+font-family: "Akshar";
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.quick_inputs{
+    color: #606060;
+font-family: "Akshar";
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+padding-top: 5%;
+}
+
+.contect_us{
+    color: #343C82;
+font-family: "Akshar";
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+}
+
+.conterct_paragraf{
+    color: #000;
+text-align: center;
+font-family: "Akshar";
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.name_box{
+    width: 100%;
+height: 41px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #DEDEDE;
+margin-left: 0%;
+}
+
+.email_box{
+    width: 100%;
+    height: 41px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #DEDEDE;
+    margin-left: 0%;
+    
+}
+
+.simple_box{
+    width: 100%;
+    height: 181px;
+flex-shrink: 0;
+border-radius: 10px;
+border-color: none !important;
+background: #DEDEDE;
+outline: none !important;
+padding-left: 10px;
+outline:0px none transparent;
+border: none;
+    overflow: auto;
+    outline: none;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+
+}
+
+.small_green_box{
+    width: 100%;
+    height: 41px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: #343C82;
+text-align: center;
+margin-bottom: 5%;
+}
+
+.btn-green{
+    color: #FFF;
+font-family: "Akshar";
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.logo_contect{
+    width: 50px;
+height: 32px;
+flex-shrink: 0;
+margin-top: 1%;
+margin-left: 2%;
+
+}
+.logo_email{
+    width: 50px;
+height: 36px;
+flex-shrink: 0;
+margin-left: 2%;
+margin-top: 3px;
+}
+.inputs_name{
+    color: #2C2C2C;
+font-family: "Akshar";
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+margin-left: 10% !important;
+margin-bottom: 15% !important;
+}
+
+
+
+.input_style_email{
+    border-radius: 10px;
+background: #DEDEDE;
+border: none;
+outline: none;
+color: #2C2C2C;
+font-family: "Akshar";
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+margin-left: 0%;
+}
+.input_style_email:focus{
+    border: none;
+}
+.input_style_email::placeholder {
+    color: #2C2C2C; 
+}
+
+@media only screen and (max-width: 1200px){
+    .logo_stebal{
+        width: 70%;
+    height: 150px;
+    flex-shrink: 0;
+    
+    }
+    
+    .paragraf_logo{
+        color: #606060;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    }
+    
+    .quick_links{
+        color:  #343C82;
+    text-align: start;
+    font-family: "Akshar";
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    
+    .quick_inputs{
+        color: #606060;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 5%;
+    }
+    
+    .contect_us{
+        color: #343C82;
+    font-family: "Akshar";
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    }
+    
+    .conterct_paragraf{
+        color: #000;
+    text-align: center;
+    font-family: "Akshar";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    }
+    
+    .name_box{
+        width: 100%;
+    height: 41px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #DEDEDE;
+    margin-left: 0%;
+    }
+    
+    .email_box{
+        width: 100%;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        background: #DEDEDE;
+        margin-left: 0%;
+        
+    }
+    
+    .simple_box{
+        width: 100%;
+        height: 170px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border-color: none !important;
+    background: #DEDEDE;
+    outline: none !important;
+    padding-left: 10px;
+    outline:0px none transparent;
+    border: none;
+        overflow: auto;
+        outline: none;
+    
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    
+    }
+    
+    .small_green_box{
+        width: 100%;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+    background: #343C82;
+    text-align: center;
+    margin-bottom: 5%;
+    }
+    
+    .btn-green{
+        color: #FFF;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    }
+    
+    .logo_contect{
+        width: 50px;
+    height: 32px;
+    flex-shrink: 0;
+    margin-top: 1%;
+    margin-left: 2%;
+    
+    }
+    .logo_email{
+        width: 50px;
+    height: 36px;
+    flex-shrink: 0;
+    margin-left: 2%;
+    margin-top: 3px;
+    }
+    .inputs_name{
+        color: #2C2C2C;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    
+    margin-left: 10% !important;
+    margin-bottom: 15% !important;
+    }
+    
+    
+    
+    .input_style_email{
+        border-radius: 10px;
+    background: #DEDEDE;
+    border: none;
+    outline: none;
+    color: #2C2C2C;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 0%;
+    }
+    .input_style_email:focus{
+        border: none;
+    }
+    .input_style_email::placeholder {
+        color: #2C2C2C; 
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    .logo_stebal{
+        width: 70%;
+    height: 110px;
+    flex-shrink: 0;
+    
+    }
+    
+    .paragraf_logo{
+        color: #606060;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    }
+    
+    .quick_links{
+        color:  #343C82;
+    text-align: start;
+    font-family: "Akshar";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    
+    .quick_inputs{
+        color: #606060;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 5%;
+    }
+    
+    .contect_us{
+        color: #343C82;
+    font-family: "Akshar";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    }
+    
+    .conterct_paragraf{
+        color: #000;
+    text-align: center;
+    font-family: "Akshar";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    }
+    
+    .name_box{
+        width: 100%;
+    height: 41px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #DEDEDE;
+    margin-left: 0%;
+    }
+    
+    .email_box{
+        width: 100%;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        background: #DEDEDE;
+        margin-left: 0%;
+        
+    }
+    
+    .simple_box{
+        width: 100%;
+        height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border-color: none !important;
+    background: #DEDEDE;
+    outline: none !important;
+    padding-left: 10px;
+    outline:0px none transparent;
+    border: none;
+        overflow: auto;
+        outline: none;
+    
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    
+    }
+    
+    .small_green_box{
+        width: 100%;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+    background: #343C82;
+    text-align: center;
+    margin-bottom: 5%;
+    }
+    
+    .btn-green{
+        color: #FFF;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    }
+    
+    .logo_contect{
+        width: 50px;
+    height: 32px;
+    flex-shrink: 0;
+    margin-top: 1%;
+    margin-left: 2%;
+    
+    }
+    .logo_email{
+        width: 50px;
+    height: 36px;
+    flex-shrink: 0;
+    margin-left: 2%;
+    margin-top: 3px;
+    }
+    .inputs_name{
+        color: #2C2C2C;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    
+    margin-left: 10% !important;
+    margin-bottom: 15% !important;
+    }
+    
+    
+    
+    .input_style_email{
+        border-radius: 10px;
+    background: #DEDEDE;
+    border: none;
+    outline: none;
+    color: #2C2C2C;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 0%;
+    }
+    .input_style_email:focus{
+        border: none;
+    }
+    .input_style_email::placeholder {
+        color: #2C2C2C;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .logo_stebal{
+        width: 30%;
+    height: 120px;
+    flex-shrink: 0;
+    
+    }
+    
+    .paragraf_logo{
+        color: #606060;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    }
+    
+    .quick_links{
+        color:  #343C82;
+    text-align: start;
+    font-family: "Akshar";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    
+    .quick_inputs{
+        color: #606060;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 2%;
+    }
+    
+    .contect_us{
+        color: #343C82;
+    font-family: "Akshar";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: start;
+    }
+    
+    .conterct_paragraf{
+        color: #000;
+    text-align: start;
+    font-family: "Akshar";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    }
+    
+    .name_box{
+        width: 100%;
+    height: 41px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #DEDEDE;
+    margin-left: 0%;
+    }
+    
+    .email_box{
+        width: 100%;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        background: #DEDEDE;
+        margin-left: 0%;
+        
+    }
+    
+    .simple_box{
+        width: 100%;
+        height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border-color: none !important;
+    background: #DEDEDE;
+    outline: none !important;
+    padding-left: 10px;
+    outline:0px none transparent;
+    border: none;
+        overflow: auto;
+        outline: none;
+    
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    
+    }
+    
+    .small_green_box{
+        width: 100%;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+    background: #343C82;
+    text-align: center;
+    margin-bottom: 5%;
+    }
+    
+    .btn-green{
+        color: #FFF;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    }
+    
+    .logo_contect{
+        width: 50px;
+    height: 32px;
+    flex-shrink: 0;
+    margin-top: 1%;
+    margin-left: 2%;
+    
+    }
+    .logo_email{
+        width: 50px;
+    height: 36px;
+    flex-shrink: 0;
+    margin-left: 2%;
+    margin-top: 3px;
+    }
+    .inputs_name{
+        color: #2C2C2C;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    
+    margin-left: 10% !important;
+    margin-bottom: 15% !important;
+    }
+    
+    
+    
+    .input_style_email{
+        border-radius: 10px;
+    background: #DEDEDE;
+    border: none;
+    outline: none;
+    color: #2C2C2C;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 0%;
+    }
+    .input_style_email:focus{
+        border: none;
+    }
+    .input_style_email::placeholder {
+        color: #2C2C2C;
+    }
+}
+
+@media only screen and (max-width: 430px){
+    .logo_stebal{
+        width: 40%;
+    height: 110px;
+    flex-shrink: 0;
+    
+    }
+    
+    .paragraf_logo{
+        color: #606060;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    }
+    
+    .quick_links{
+        color:  #343C82;
+    text-align: start;
+    font-family: "Akshar";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    
+    .quick_inputs{
+        color: #606060;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 2%;
+    }
+    
+    .contect_us{
+        color: #343C82;
+    font-family: "Akshar";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: start;
+    }
+    
+    .conterct_paragraf{
+        color: #000;
+    text-align: start;
+    font-family: "Akshar";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    }
+    
+    .name_box{
+        width: 100%;
+    height: 41px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #DEDEDE;
+    margin-left: 0%;
+    }
+    
+    .email_box{
+        width: 100%;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        background: #DEDEDE;
+        margin-left: 0%;
+        
+    }
+    
+    .simple_box{
+        width: 100%;
+        height: 150px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border-color: none !important;
+    background: #DEDEDE;
+    outline: none !important;
+    padding-left: 10px;
+    outline:0px none transparent;
+    border: none;
+        overflow: auto;
+        outline: none;
+    
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    
+    }
+    
+    .small_green_box{
+        width: 100%;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+    background: #343C82;
+    text-align: center;
+    margin-bottom: 5%;
+    }
+    
+    .btn-green{
+        color: #FFF;
+    font-family: "Akshar";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    }
+    
+    .logo_contect{
+        width: 50px;
+    height: 32px;
+    flex-shrink: 0;
+    margin-top: 1%;
+    margin-left: 2%;
+    
+    }
+    .logo_email{
+        width: 50px;
+    height: 36px;
+    flex-shrink: 0;
+    margin-left: 2%;
+    margin-top: 3px;
+    }
+    .inputs_name{
+        color: #2C2C2C;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    
+    margin-left: 10% !important;
+    margin-bottom: 15% !important;
+    }
+    
+    
+    
+    .input_style_email{
+        border-radius: 10px;
+    background: #DEDEDE;
+    border: none;
+    outline: none;
+    color: #2C2C2C;
+    font-family: "Akshar";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 0%;
+    }
+    .input_style_email:focus{
+        border: none;
+    }
+    .input_style_email::placeholder {
+        color: #2C2C2C; 
+    }
+}

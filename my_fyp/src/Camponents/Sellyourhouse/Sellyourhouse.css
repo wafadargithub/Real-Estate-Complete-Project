@@ -1,0 +1,703 @@
+
+
+.back-ground-img {
+    background-image: url("../../Assets/triangal-img.png");
+    width: 100%;
+    height: 530px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .heading_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 8%;
+    margin-left: 12%;
+    margin-right: 12%;
+  }
+  .bulit_ward {
+    color: #fff;
+    font-family: "Inter";
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+  }
+  .small_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 2%;
+  }
+  .yellow_box {
+    width: 20%;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #85B400;
+    margin-left: 40%;
+    margin-top: 3%;
+    border-bottom: 4px solid #fff;
+  }
+  .button_class {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 8%;
+    border-style: none;
+    border-radius: none;
+    border-radius: 47px;
+    background: #85B400;
+    margin-left: 12%;
+  }
+  .close {
+    width: 30%;
+    height: 0px;
+    color: #000;
+  
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    border-style: none;
+    border-radius: none;
+    background: #fff;
+    margin-left: 96%;
+    margin-top: -3% !important;
+    margin-bottom: 4%;
+  }
+  .modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
+   height: 400px;
+    color: var(--bs-modal-color);
+    pointer-events: auto;
+    background-color: var(--bs-modal-bg);
+    background-clip: padding-box;
+    border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+    border-radius: var(--bs-modal-border-radius);
+    outline: 0;
+  }
+  
+  .modal-header {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: space-between;
+    
+    border-bottom: var(--bs-modal-header-border-width) solid var(--bs-modal-header-border-color);
+    border-top-left-radius: var(--bs-modal-inner-border-radius);
+    border-top-right-radius: var(--bs-modal-inner-border-radius);
+  }
+  .main_div_modal_form{
+    width: 100%;
+    background-color: #fff;
+  }
+  .see_house_img {
+    width: 90%;
+    height: 220px;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-top: 45px;
+  }
+  .heading_paragraf2 {
+    color: #343C82;
+  
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .buy_home {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 8%;
+  }
+  
+  .input_no_border {
+    border: 0px;
+    width: 70%;
+  outline: none;
+  padding-left: 2%;
+  }
+  
+  .hr_line {
+    background: #000;
+    width: 90%;
+    height: 1px;
+  }
+  .btn-primary{
+    color: #fff;
+    font-size: 14px;
+    width: 55%;
+  height: 35px;
+  border-radius: 47px;
+  background: #343C82;
+  margin-top: 1%;
+  margin-left: 20%;
+  }
+  
+  
+  @media only screen and (max-width: 1400px) {
+    .back-ground-img {
+      background-image: url("../../Assets/triangal-img.png");
+      width: 100%;
+      height: 530px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+    .heading_paragraf {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 40px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-top: 8%;
+      margin-left: 12%;
+      margin-right: 12%;
+    }
+    .bulit_ward {
+      color: #fff;
+      font-family: "Inter";
+      font-size: 50px;
+      font-style: normal;
+      font-weight: 800;
+      line-height: normal;
+    }
+    .small_heading {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      margin-top: 2%;
+    }
+    .yellow_box {
+      width: 20%;
+      height: 50px;
+      flex-shrink: 0;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 40%;
+      margin-top: 3%;
+    }
+    .input_box2 {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+    }
+  }
+  @media only screen and (max-width: 1200px){
+    .button_class {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 8%;
+      border-style: none;
+      border-radius: none;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 12%;
+    }
+  }
+  
+  
+  @media only screen and (max-width: 1000px) {
+    .back-ground-img {
+      background-image: url("../../Assets/triangal-img.png");
+      width: 100%;
+      height: 350px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+    .heading_paragraf {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 30px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-top: 8%;
+      margin-left: 12%;
+      margin-right: 12%;
+    }
+    .bulit_ward {
+      color: #fff;
+      font-family: "Inter";
+      font-size: 39px;
+      font-style: normal;
+      font-weight: 800;
+      line-height: normal;
+    }
+    .small_heading {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      margin-top: 2%;
+    }
+    .button_class {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 10px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 12%;
+      border-style: none;
+      border-radius: none;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 12%;
+    }
+    .yellow_box {
+      width: 20%;
+      height: 42px;
+      flex-shrink: 0;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 40%;
+      margin-top: 3%;
+    }
+    .input_box2 {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 11px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 8%;
+    }
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .back-ground-img {
+      background-image: url("../../Assets/triangal-img.png");
+      width: 100%;
+      height: 350px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+    .button_class {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size:10px !important;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 5% !important;
+      border-style: none;
+      border-radius: none;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 3% !important;
+    }
+    .heading_paragraf {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-top: 15%;
+      margin-left: 12%;
+      margin-right: 12%;
+    }
+    .bulit_ward {
+      color: #fff;
+      font-family: "Inter";
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 800;
+      line-height: normal;
+    }
+    .small_heading {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      margin-top: 2%;
+    }
+    .yellow_box {
+      width: 24%;
+      height: 32px;
+      flex-shrink: 0;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 40%;
+      margin-top: 3%;
+    }
+    .input_box2 {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 9px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 9%;
+    }
+  
+    .button_class {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 8%;
+      border-style: none;
+      border-radius: none;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 12%;
+    }
+    .close {
+      width: 30%;
+      height: 0px;
+      color: #000;
+    
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 200;
+      line-height: normal;
+      border-style: none;
+      border-radius: none;
+      background: #fff;
+      margin-left: 95%;
+      margin-top: -3% !important;
+      margin-bottom: 5%;
+    }
+    .modal-content {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      width: 100% !important;
+     height: 670px;
+      color: var(--bs-modal-color);
+      pointer-events: auto;
+      background-color: var(--bs-modal-bg);
+      background-clip: padding-box;
+      border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+      border-radius: var(--bs-modal-border-radius);
+      outline: 0;
+    }
+    
+    .modal-header {
+      display: flex;
+      flex-shrink: 0;
+      align-items: center;
+      justify-content: space-between;
+      
+      border-bottom: var(--bs-modal-header-border-width) solid var(--bs-modal-header-border-color);
+      border-top-left-radius: var(--bs-modal-inner-border-radius);
+      border-top-right-radius: var(--bs-modal-inner-border-radius);
+    }
+    .main_div_modal_form{
+      width: 100%;
+      background-color: #fff;
+    }
+    .see_house_img {
+      width: 90%;
+      height: 220px;
+      border-radius: 10px;
+      margin-left: 5%;
+      margin-top: 10px;
+    }
+    .heading_paragraf2 {
+      color: #343C82;
+    
+      font-family: "Inter";
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-left: 5%;
+      padding-top: 5%;
+    }
+    .buy_home {
+      color: #2c2c2c;
+      font-family: "Inter";
+      font-size: 13px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-right: 8%;
+      padding-left: 5%;
+    }
+    
+    .input_no_border {
+      border: 0px;
+      width: 70%;
+    outline: none;
+    padding-left: 2%;
+   
+    }
+    .name_or_email{
+      margin-left: 5%;
+    }
+    
+    .hr_line {
+      background: #000;
+      width: 90%;
+      height: 1px;
+      
+    }
+    .btn-primary{
+      color: #fff;
+      font-size: 14px;
+      width: 55%;
+    height: 35px;
+    border-radius: 47px;
+    background: #343C82;
+    margin-top: 1%;
+    margin-left: 20%;
+    }
+  }
+  
+  @media only screen and (max-width: 577px){
+    .modal-content {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      width: 100% !important;
+     height: 640px;
+      color: var(--bs-modal-color);
+      pointer-events: auto;
+      background-color: var(--bs-modal-bg);
+      background-clip: padding-box;
+      border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+      border-radius: var(--bs-modal-border-radius);
+      outline: 0;
+    }
+    .see_house_img {
+      width: 60%;
+      height: 180px;
+      border-radius: 10px;
+      margin-left: 18%;
+      margin-top: 10px;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .back-ground-img {
+      background-image: url("../../Assets/triangal-img.png");
+      width: 100%;
+      height: 250px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+    .button_class {
+      width: 90% !important;
+      height: 16px;
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 7px !important;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 0% !important;
+      border-style: none;
+      border-radius: none;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left:4% !important;
+    }
+    .heading_paragraf {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-top: 15%;
+      margin-left: 12%;
+      margin-right: 12%;
+    }
+    .bulit_ward {
+      color: #fff;
+      font-family: "Inter";
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 800;
+      line-height: normal;
+    }
+    .small_heading {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 9px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      margin-top: 2%;
+    }
+    .yellow_box {
+      width: 30% !important;
+      height: 28px;
+      flex-shrink: 0;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 40%;
+      margin-top: 3%;
+    }
+    .input_box2 {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 7px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 10%;
+    }
+  }
+  
+  @media only screen and (max-width: 385px) {
+    .back-ground-img {
+      background-image: url("../../Assets/triangal-img.png");
+      width: 100%;
+      height: 240px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+    .button_class {
+      width: 100%;
+      height: 18px;
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 8px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      margin-top: -9% !important;
+      border-style: none;
+      border-radius: none;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left:2%;
+    }
+    .heading_paragraf {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 13px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-top: 18%;
+      margin-left: 12%;
+      margin-right: 12%;
+    }
+    .bulit_ward {
+      color: #fff;
+      font-family: "Inter";
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 800;
+      line-height: normal;
+    }
+    .small_heading {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 9px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      margin-top: 2%;
+    }
+    .yellow_box {
+      width: 30%;
+      height: 30px;
+      flex-shrink: 0;
+      border-radius: 47px;
+      background: #85B400;
+      margin-left: 35%;
+      margin-top: 8%;
+    }
+    .input_box2 {
+      color: #fff;
+      text-align: center;
+      font-family: "Inter";
+      font-size: 6px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding-top: 10%;
+    }
+  }
+  @media only screen and (max-width: 360px){
+    .modal-content {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      width: 100% !important;
+     height: 570px;
+      color: var(--bs-modal-color);
+      pointer-events: auto;
+      background-color: var(--bs-modal-bg);
+      background-clip: padding-box;
+      border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+      border-radius: var(--bs-modal-border-radius);
+      outline: 0;
+    }
+    .see_house_img {
+      width: 60%;
+      height: 140px;
+      border-radius: 10px;
+      margin-left: 18%;
+      margin-top: 10px;
+    }
+  }
+  

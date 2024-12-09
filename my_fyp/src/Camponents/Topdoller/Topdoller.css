@@ -1,0 +1,1495 @@
+.background_img2 {
+  background-image: url("../../Assets/blue-and-black-color.png");
+  width: 100%;
+  height: 1880px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.top_dollar_heading {
+  color: #fff;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 8% !important;
+}
+.selling_paragraf {
+  color: #fff;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 123%;
+  font-style: normal;
+  margin-left: 14%;
+  margin-right: 14%;
+}
+.there_paragraf {
+  color: #fff;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 123%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.getcash_butten {
+  width: 40%;
+  height: 70px;
+  flex-shrink: 0;
+  border-radius: 47px;
+  background: #85b400;
+  margin-left: 30%;
+}
+.offer_button {
+  color: #2c2c2c;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.main_div {
+  display: flex;
+  direction: column;
+  text-align: start;
+  /* width: 100%; */
+}
+
+.your_wondering {
+  width: 100%;
+  color: #fff;
+  font-family: "Inter";
+  text-align: start;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-right: 10%;
+}
+.chilled_div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+  gap: 4%;
+}
+.no_feeds_box {
+  width: 40%;
+  height: 65px;
+  flex-shrink: 0;
+  border-radius: 47px;
+  background: #5b6cff;
+}
+.feeds_input {
+  color: #2c2c2c;
+  font-family: "Inter";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-top: 3%;
+}
+.fees_paragraf {
+  width: 90%;
+  color: #fff;
+  font-family: "Inter";
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-align: start;
+}
+.less_box {
+  width: 35%;
+  height: 65px;
+  flex-shrink: 0;
+  border-radius: 47px;
+  background: #5b6cff;
+}
+.no_long_box {
+  width: 45%;
+  height: 65px;
+  flex-shrink: 0;
+  border-radius: 47px;
+  background: #5b6cff;
+}
+.building_frant_img {
+  width: 100%;
+  height: 600px;
+  margin-top: 40%;
+  flex-shrink: 0;
+}
+.main_div2 {
+  display: flex;
+  direction: row;
+  text-align: start;
+  width: 100%;
+}
+.empoly_img {
+  width: 52%;
+  height: 630px;
+  margin-top: 3%;
+  flex-shrink: 0;
+}
+.simple_paragraf {
+  color: #fff;
+  font-family: "Inter";
+
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding-left: 4%;
+  padding-top: 3%;
+}
+.simple_paragraf2 {
+  color: #fff;
+  font-family: "Inter";
+
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding-left: 4%;
+}
+
+@media only screen and (max-width: 1400px) {
+  .background_img2 {
+    background-image: url("../../Assets/blue-and-black-color.png");
+    width: 100%;
+    height: 1880px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .top_dollar_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .selling_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    font-style: normal;
+    margin-left: 14%;
+    margin-right: 14%;
+  }
+  .there_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .getcash_butten {
+    width: 40%;
+    height: 70px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #85b400;
+    margin-left: 30%;
+  }
+  .offer_button {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .main_div {
+    display: flex;
+    direction: row;
+    text-align: start;
+    /* width: 100%; */
+  }
+
+  .your_wondering {
+    width: 100%;
+    color: #fff;
+    font-family: "Inter";
+    text-align: start;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 10%;
+  }
+  .chilled_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 4%;
+  }
+  .no_feeds_box {
+    width: 40%;
+    height: 65px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+  }
+  .feeds_input {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 4%;
+  }
+  .fees_paragraf {
+    width: 90%;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: start;
+  }
+  .less_box {
+    width: 35%;
+    height: 65px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+  }
+  .no_long_box {
+    width: 45%;
+    height: 65px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+  }
+  .building_frant_img {
+    width: 100%;
+    height: 600px;
+    margin-top: 40%;
+    flex-shrink: 0;
+  }
+  .main_div2 {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+  .empoly_img {
+    width: 52%;
+    height: 600px;
+    margin-top: 3%;
+    flex-shrink: 0;
+  }
+  .simple_paragraf {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+    padding-top: 3%;
+  }
+  .simple_paragraf2 {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .background_img2 {
+    background-image: url("../../Assets/blue-and-black-color.png");
+    width: 100%;
+    height: 1800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .top_dollar_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .selling_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    font-style: normal;
+    margin-left: 14%;
+    margin-right: 14%;
+  }
+  .there_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .getcash_butten {
+    width: 40%;
+    height: 70px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #85b400;
+    margin-left: 30%;
+  }
+  .offer_button {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 6% !important;
+  }
+  .main_div {
+    display: flex;
+    direction: row;
+    text-align: start;
+    /* width: 100%; */
+  }
+
+  .your_wondering {
+    width: 100%;
+    color: #fff;
+    font-family: "Inter";
+    text-align: start;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 10%;
+  }
+  .chilled_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 4%;
+  }
+  .no_feeds_box {
+    width: 40%;
+    height: 65px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+  }
+  .feeds_input {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 6%;
+  }
+  .fees_paragraf {
+    width: 90%;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: start;
+  }
+  .less_box {
+    width: 35%;
+    height: 65px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+  }
+  .no_long_box {
+    width: 45%;
+    height: 65px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+  }
+  .building_frant_img {
+    width: 100%;
+    height: 600px;
+    margin-top: 40%;
+    flex-shrink: 0;
+  }
+  .main_div2 {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+  .empoly_img {
+    width: 52%;
+    height: 600px;
+    margin-top: 3%;
+    flex-shrink: 0;
+  }
+  .simple_paragraf {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+    padding-top: 3%;
+  }
+  .simple_paragraf2 {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .background_img2 {
+    background-image: url("../../Assets/blue-and-black-color.png");
+    width: 100%;
+    height: 1620px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .top_dollar_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 10% !important;
+  }
+  .selling_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    font-style: normal;
+    margin-left: 14%;
+    margin-right: 14%;
+  }
+  .there_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .getcash_butten {
+    width: 40%;
+    height: 70px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #85b400;
+    margin-left: 27%;
+  }
+  .offer_button {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 9% !important;
+  }
+  .main_div {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+
+  .your_wondering {
+    width: 100%;
+    color: #fff;
+    font-family: "Inter";
+    text-align: start;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 10%;
+    margin-top: 5% !important;
+  }
+  .chilled_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 2% ;
+  }
+  .no_feeds_box {
+    width: 50%;
+    height: 55px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+    margin-top: 3% !important;
+  }
+  .feeds_input {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 7%;
+  }
+  .fees_paragraf {
+    width: 90%;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: start;
+    margin-top: 3% !important;
+  }
+  .less_box {
+    width: 35%;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+    margin-top: 3% !important;
+  }
+  .no_long_box {
+    width: 60%;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5b6cff;
+    margin-top: 3% !important;
+  }
+  .building_frant_img {
+    width: 100%;
+    height: 560px;
+    margin-top: 35%;
+    flex-shrink: 0;
+  }
+  .main_div2 {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+  .empoly_img {
+    width: 52%;
+    height: 550px;
+    margin-top: 3%;
+    flex-shrink: 0;
+  }
+  .simple_paragraf {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+    padding-top: 3%;
+  }
+  .simple_paragraf2 {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+
+    .background_img2 {
+        background-image: url("../../Assets/blue-and-black-color.png");
+        width: 100%;
+        height: 1200px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+  .top_dollar_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 15% !important;
+  }
+  .selling_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    font-style: normal;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .there_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .getcash_butten {
+    width: 50%;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #85B400;
+    margin-left: 27%;
+  }
+  .offer_button {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 9% !important;
+  }
+  .main_div {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+
+  .your_wondering {
+    width: 100%;
+    color: #fff;
+    font-family: "Inter";
+    text-align: start;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 10%;
+  }
+  .chilled_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 3%;
+  }
+  .no_feeds_box {
+    width: 60%;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .feeds_input {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 7% !important;
+  }
+  .fees_paragraf {
+    width: 90%;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: start;
+  }
+  .less_box {
+    width: 45%;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .no_long_box {
+    width: 70%;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .building_frant_img {
+    width: 120%;
+    height: 350px;
+    margin-top: 35%;
+    padding-top: 2%;
+  }
+  .main_div2 {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+  .empoly_img {
+    width: 52%;
+    height: 370px;
+    margin-top: 8%;
+    flex-shrink: 0;
+  }
+  .simple_paragraf {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+    padding-top: 0%;
+  }
+  .simple_paragraf2 {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+    .background_img2 {
+        background-image: url("../../Assets/blue-and-black-color.png");
+        width: 100%;
+        height: 1050px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+  .top_dollar_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .selling_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    font-style: normal;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .there_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .getcash_butten {
+    width: 50%;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #85B400;
+    margin-left: 26%;
+  }
+  .offer_button {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 7% !important;
+  }
+  .main_div {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+
+  .your_wondering {
+    width: 100%;
+    color: #fff;
+    font-family: "Inter";
+    text-align: start;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 10%;
+  }
+  .chilled_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 2%;
+  }
+  .no_feeds_box {
+    width: 60%;
+    height: 35px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .feeds_input {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 7% !important;
+  }
+  .fees_paragraf {
+    width: 90%;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: start;
+  }
+  .less_box {
+    width: 45%;
+    height: 35px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .no_long_box {
+    width: 70%;
+    height: 35px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .building_frant_img {
+    width: 100%;
+    height: 330px;
+    margin-top: 30%;
+    padding-top: 4%;
+  }
+  .main_div2 {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+  .empoly_img {
+    width: 52%;
+    height: 310px;
+    margin-top: 6%;
+    flex-shrink: 0;
+  }
+  .simple_paragraf {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+    padding-top: 0%;
+  }
+  .simple_paragraf2 {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+    .background_img2 {
+        background-image: url("../../Assets/blue-and-black-color.png");
+        width: 100%;
+        height: 1050px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+  .top_dollar_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .selling_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    font-style: normal;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .there_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .getcash_butten {
+    width: 50%;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #85B400;
+    margin-left: 26%;
+  }
+  .offer_button {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 9% !important;
+  }
+  .main_div {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+
+  .your_wondering {
+    width: 100%;
+    color: #fff;
+    font-family: "Inter";
+    text-align: start;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 10%;
+  }
+  .chilled_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 2%;
+  }
+  .no_feeds_box {
+    width: 60%;
+    height: 35px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5B6CFF;
+  }
+  .feeds_input {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 8%;
+  }
+  .fees_paragraf {
+    width: 90%;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: start;
+  }
+  .less_box {
+    width: 45%;
+    height: 35px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .no_long_box {
+    width: 70%;
+    height: 35px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .building_frant_img {
+    width: 100%;
+    height: 330px;
+    margin-top: 35%;
+    padding-top: 4%;
+  }
+  .main_div2 {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+  .empoly_img {
+    width: 52%;
+    height: 310px;
+    margin-top: 6%;
+    flex-shrink: 0;
+  }
+  .simple_paragraf {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+    padding-top: 0%;
+  }
+  .simple_paragraf2 {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+
+    .background_img2 {
+        background-image: url("../../Assets/blue-and-black-color.png");
+        width: 100%;
+        height: 900px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+  .top_dollar_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .selling_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    font-style: normal;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .there_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .getcash_butten {
+    width: 50%;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #85B400;
+    margin-left: 25%;
+  }
+  .offer_button {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 8% !important;
+  }
+  .main_div {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+
+  .your_wondering {
+    width: 100%;
+    color: #fff;
+    font-family: "Inter";
+    text-align: start;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 10%;
+    margin-top: 14% !important;
+  }
+  .chilled_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 3%;
+  }
+  .no_feeds_box {
+    width: 60%;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5B6CFF;
+  }
+  .feeds_input {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 8px !important;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 5% !important;
+  }
+  .fees_paragraf {
+    width: 90%;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: start;
+  }
+  .less_box {
+    width: 45%;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .no_long_box {
+    width: 70%;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5B6CFF;
+  }
+  .building_frant_img {
+    width: 100%;
+    height: 280px;
+    margin-top: 35%;
+    padding-top: 4%;
+  }
+  .main_div2 {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+  .empoly_img {
+    width: 52%;
+    height: 240px;
+    margin-top: 12%;
+    flex-shrink: 0;
+  }
+  .simple_paragraf {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+    padding-top: 0%;
+  }
+  .simple_paragraf2 {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+
+    .background_img2 {
+        background-image: url("../../Assets/blue-and-black-color.png");
+        width: 100%;
+        height: 890px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+  .top_dollar_heading {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .selling_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    font-style: normal;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .there_paragraf {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .getcash_butten {
+    width: 50%;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #85B400;
+    margin-left: 25%;
+  }
+  .offer_button {
+    color: #2c2c2c;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 10% !important;
+  }
+  .main_div {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+
+  .your_wondering {
+    width: 100%;
+    color: #fff;
+    font-family: "Inter";
+    text-align: start;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 10%;
+    margin-top: 14% !important;
+  }
+  .chilled_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    gap: 1%;
+  }
+  .no_feeds_box {
+    width: 60%;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 47px;
+background: #5B6CFF;
+  }
+  .feeds_input {
+    color: #2c2c2c;
+    font-family: "Inter";
+    font-size: 8px !important;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 8% !important;
+  }
+  .fees_paragraf {
+    width: 90%;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: start;
+  }
+  .less_box {
+    width: 45%;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5B6CFF;
+  }
+  .no_long_box {
+    width: 70%;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 47px;
+    background: #5B6CFF;
+  }
+  .building_frant_img {
+    width: 100%;
+    height: 280px;
+    margin-top: 30%;
+    padding-top: 4%;
+  }
+  .main_div2 {
+    display: flex;
+    direction: row;
+    text-align: start;
+    width: 100%;
+  }
+  .empoly_img {
+    width: 52%;
+    height: 240px;
+    margin-top: 12%;
+    flex-shrink: 0;
+  }
+  .simple_paragraf {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+    padding-top: 0%;
+  }
+  .simple_paragraf2 {
+    color: #fff;
+    font-family: "Inter";
+
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 4%;
+  }
+}
